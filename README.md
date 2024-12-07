@@ -6,7 +6,7 @@ A Lovelace card to display the sensor data from the integration component.
 - [Home Assistant Pollenprognos integration](https://github.com/JohNan/homeassistant-pollenprognos)
 
 ### Install with HACS
-Add https://github.com/nidayand/lovelace-pollen-card as a custom integration.
+Add https://github.com/nidayand/lovelace-pollen-card as a Dashboard.
 See more info: https://hacs.xyz/docs/faq/custom_repositories
 
 ## Credits
